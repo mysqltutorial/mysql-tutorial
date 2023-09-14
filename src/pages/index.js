@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/mysql/intro">
+            to="/mysql/mysql-intro/first-article">
             Start Learning MySQL
           </Link>
         </div>
