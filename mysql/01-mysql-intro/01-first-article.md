@@ -1,4 +1,6 @@
 ---
 sidebar_position: 3
 ---
-# Relational Database
+# What is MySQL ?
+
+MySQL is an open-source relational database management system.
